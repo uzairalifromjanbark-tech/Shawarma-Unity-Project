@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018FC4E4-81C8-F935-35AA-D10712D5AE3B}|Assembly-CSharp-Editor.csproj|e:\\uzair\\shawaramproject\\shawarma-unity-project\\assets\\scripts\\editor\\createsamplescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018FC4E4-81C8-F935-35AA-D10712D5AE3B}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\createsamplescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSampleScene.cs",
+              "DocumentMoniker": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\Editor\\CreateSampleScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\CreateSampleScene.cs",
+              "ToolTip": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\Editor\\CreateSampleScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\CreateSampleScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:13:17.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
