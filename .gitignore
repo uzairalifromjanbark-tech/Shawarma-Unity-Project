@@ -25,6 +25,9 @@ UserSettings/
 *.pdb
 *.mdb
 
+# Visual Studio cache
+.vs/
+
 # VS Code workspace settings
 .vscode/
 

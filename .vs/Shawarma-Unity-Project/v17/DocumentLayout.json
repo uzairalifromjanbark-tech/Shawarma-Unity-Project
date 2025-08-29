@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{018FC4E4-81C8-F935-35AA-D10712D5AE3B}|Assembly-CSharp-Editor.csproj|e:\\uzair\\shawaramproject\\shawarma-unity-project\\assets\\scripts\\editor\\createsamplescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|e:\\uzair\\shawaramproject\\shawarma-unity-project\\assets\\scripts\\shawarmaassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shawarmaassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\assets\\scripts\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|e:\\uzair\\shawaramproject\\shawarma-unity-project\\assets\\scripts\\orderticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orderticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018FC4E4-81C8-F935-35AA-D10712D5AE3B}|Assembly-CSharp-Editor.csproj|E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\assets\\scripts\\editor\\createsamplescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{018FC4E4-81C8-F935-35AA-D10712D5AE3B}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\createsamplescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|e:\\uzair\\shawaramproject\\shawarma-unity-project\\assets\\scripts\\ordersuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC138B6-9EDE-66B7-06C1-07C38E67E6C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ordersuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderTicketView.cs",
+              "DocumentMoniker": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\OrderTicketView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OrderTicketView.cs",
+              "ToolTip": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\OrderTicketView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OrderTicketView.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAowD8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:40:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShawarmaAssembly.cs",
+              "DocumentMoniker": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\ShawarmaAssembly.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ShawarmaAssembly.cs",
+              "ToolTip": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\ShawarmaAssembly.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ShawarmaAssembly.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAD4v2QAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:29:01.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersUIController.cs",
+              "DocumentMoniker": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\OrdersUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OrdersUIController.cs",
+              "ToolTip": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\OrdersUIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OrdersUIController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC0AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:15:29.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\OrderManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OrderManager.cs",
+              "ToolTip": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\OrderManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OrderManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T12:32:43.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateSampleScene.cs",
               "DocumentMoniker": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\Editor\\CreateSampleScene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\CreateSampleScene.cs",
               "ToolTip": "E:\\Uzair\\ShawaramProject\\Shawarma-Unity-Project\\Assets\\Scripts\\Editor\\CreateSampleScene.cs",
               "RelativeToolTip": "Assets\\Scripts\\Editor\\CreateSampleScene.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADkBAAAAAAAAAAAgwEkBAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T12:13:17.021Z",
               "EditorCaption": ""
